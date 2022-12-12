@@ -39,6 +39,7 @@
 
 .botao{
     position: relative;
+    background-image: url(../img/mapa/expandir.png);
     background-repeat: no-repeat;
     background-size: contain;
     background-position: center;

@@ -1,5 +1,4 @@
 window.onload = function inicial() {
-    document.getElementById("ajuste").style.backgroundImage = 'url(../img/mapa/expandir.png)';
     AjusteMapa = "expandir";
 }
 
