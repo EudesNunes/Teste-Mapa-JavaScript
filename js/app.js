@@ -1,6 +1,6 @@
 window.onload = function inicial() {
-    urlExpandir = 'url(img/mapa/expandir.png)';
-    urlDiminuir = 'url(img/mapa/diminuir.png)';
+    urlExpandir = 'url(/../img/mapa/expandir.png)';
+    urlDiminuir = 'url(/../img/mapa/diminuir.png)';
     AjusteMapa = "expandir";
 }
 
