@@ -1,10 +1,11 @@
 window.onload = function inicial() {
+    urlExpandir = 'url(../img/mapa/expandir.png)';
+    urlDiminuir = 'url(../img/mapa/diminuir.png)';
     AjusteMapa = "expandir";
 }
 
 function ajustar() {
-    var urlExpandir = 'url(../img/mapa/expandir.png)';
-    var urlDiminuir = 'url(../img/mapa/diminuir.png)';
+    
     var divMapa = document.getElementById("Mapa");
 
     if (AjusteMapa == "diminuir") {
